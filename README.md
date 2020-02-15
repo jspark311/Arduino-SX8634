@@ -1,4 +1,4 @@
-# SX8634-Breakout
+# SX8634
 
 A breakout board for Semtech's SX8634 capacitive touch sensor.
 
